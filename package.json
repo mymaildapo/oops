@@ -1,0 +1,22 @@
+{
+  "name": "diamond-api",
+  "version": "1.0.0",
+  "description": "Exercise from: https://github.com/gmit-linked-data/diamond-api",
+  "main": "diamond.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/gmit-linked-data/diamond-api"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "Ian McLoughlin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "sqlite3": "^3.1.0"
+  }
+}
